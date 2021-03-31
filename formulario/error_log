@@ -1,0 +1,40 @@
+[15-Aug-2020 15:19:33 America/Santiago] PHP Parse error:  syntax error, unexpected '$db' (T_VARIABLE) in /home/formacionccu/public_html/matriz/application/config/database.php on line 51
+[17-Aug-2020 19:41:59 America/Santiago] PHP Fatal error:  Call to undefined function form_open() in /home/formacionccu/public_html/matriz/application/views/common/footer.php on line 10
+[17-Aug-2020 19:45:13 America/Santiago] PHP Fatal error:  Call to undefined function form_open() in /home/formacionccu/public_html/matriz/application/views/common/footer.php on line 10
+[17-Aug-2020 19:49:33 America/Santiago] PHP Fatal error:  Call to undefined function is_login() in /home/formacionccu/public_html/matriz/application/controllers/Home.php on line 11
+[17-Aug-2020 19:49:58 America/Santiago] PHP Fatal error:  Call to undefined function form_open() in /home/formacionccu/public_html/matriz/application/views/common/footer.php on line 10
+[17-Aug-2020 19:50:02 America/Santiago] PHP Fatal error:  Call to undefined function form_open() in /home/formacionccu/public_html/matriz/application/views/common/footer.php on line 10
+[17-Aug-2020 19:50:04 America/Santiago] PHP Fatal error:  Call to undefined function form_open() in /home/formacionccu/public_html/matriz/application/views/common/footer.php on line 10
+[17-Aug-2020 19:50:17 America/Santiago] PHP Fatal error:  Call to undefined function form_open() in /home/formacionccu/public_html/matriz/application/views/common/footer.php on line 10
+[18-Aug-2020 15:01:15 America/Santiago] PHP Fatal error:  Call to a member function areas() on null in /home/formacionccu/public_html/matriz/application/controllers/Curso_controller.php on line 13
+[18-Aug-2020 15:01:16 America/Santiago] PHP Fatal error:  Call to a member function areas() on null in /home/formacionccu/public_html/matriz/application/controllers/Curso_controller.php on line 13
+[22-Aug-2020 01:01:53 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/formacionccu/public_html/matriz/application/controllers/Matriz.php on line 98
+[30-Aug-2020 12:51:58 America/Santiago] PHP Parse error:  syntax error, unexpected '$c' (T_VARIABLE) in /home/formacionccu/public_html/matriz/application/views/matriz/matrizv2.php on line 296
+[30-Aug-2020 13:29:24 America/Santiago] PHP Fatal error:  Call to undefined function json_trucho() in /home/formacionccu/public_html/matriz/application/controllers/Matriz.php on line 63
+[11-Sep-2020 15:27:56 America/Santiago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/formacionccu/public_html/dashboard/application/controllers/Home.php on line 19
+[11-Sep-2020 15:42:42 America/Santiago] PHP Fatal error:  Call to a member function get_cursos() on null in /home/formacionccu/public_html/dashboard/application/controllers/Home.php on line 29
+[11-Sep-2020 15:56:22 America/Santiago] PHP Fatal error:  Cannot redeclare Modelo_ccu::get_alumnos_cant() in /home/formacionccu/public_html/dashboard/application/models/Modelo_ccu.php on line 56
+[20-Sep-2020 22:22:55 America/Santiago] PHP Fatal error:  Call to undefined function nota() in /home/formacionccu/public_html/dashboard/application/controllers/Home.php on line 116
+[20-Sep-2020 22:22:57 America/Santiago] PHP Fatal error:  Call to undefined function nota() in /home/formacionccu/public_html/dashboard/application/controllers/Home.php on line 116
+[20-Sep-2020 22:23:42 America/Santiago] PHP Fatal error:  Call to undefined function nota() in /home/formacionccu/public_html/dashboard/application/controllers/Home.php on line 116
+[20-Sep-2020 22:23:43 America/Santiago] PHP Fatal error:  Call to undefined function nota() in /home/formacionccu/public_html/dashboard/application/controllers/Home.php on line 116
+[20-Sep-2020 22:23:49 America/Santiago] PHP Fatal error:  Call to undefined function nota() in /home/formacionccu/public_html/dashboard/application/controllers/Home.php on line 116
+[20-Sep-2020 22:24:10 America/Santiago] PHP Fatal error:  Call to undefined function nota() in /home/formacionccu/public_html/dashboard/application/controllers/Home.php on line 116
+[20-Sep-2020 22:24:11 America/Santiago] PHP Fatal error:  Call to undefined function nota() in /home/formacionccu/public_html/dashboard/application/controllers/Home.php on line 116
+[20-Sep-2020 22:26:04 America/Santiago] PHP Fatal error:  Call to undefined function nota() in /home/formacionccu/public_html/dashboard/application/controllers/Home.php on line 115
+[20-Sep-2020 22:30:00 America/Santiago] PHP Fatal error:  Call to undefined function nota() in /home/formacionccu/public_html/dashboard/application/controllers/Home.php on line 115
+[20-Sep-2020 22:30:01 America/Santiago] PHP Fatal error:  Call to undefined function nota() in /home/formacionccu/public_html/dashboard/application/controllers/Home.php on line 115
+[20-Sep-2020 22:37:25 America/Santiago] PHP Parse error:  syntax error, unexpected '"1"' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/formacionccu/public_html/dashboard/application/helpers/api_helper.php on line 269
+[20-Sep-2020 22:37:28 America/Santiago] PHP Parse error:  syntax error, unexpected '"1"' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/formacionccu/public_html/dashboard/application/helpers/api_helper.php on line 269
+[20-Sep-2020 22:37:51 America/Santiago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ']' in /home/formacionccu/public_html/dashboard/application/helpers/api_helper.php on line 369
+[20-Sep-2020 22:37:52 America/Santiago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ']' in /home/formacionccu/public_html/dashboard/application/helpers/api_helper.php on line 369
+[20-Sep-2020 22:57:08 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/formacionccu/public_html/dashboard/application/controllers/Home.php on line 119
+[20-Sep-2020 22:57:10 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/formacionccu/public_html/dashboard/application/controllers/Home.php on line 119
+[20-Sep-2020 22:57:45 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/formacionccu/public_html/dashboard/application/controllers/Home.php on line 119
+[20-Sep-2020 22:58:03 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/formacionccu/public_html/dashboard/application/controllers/Home.php on line 143
+[20-Sep-2020 22:59:47 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/formacionccu/public_html/dashboard/application/helpers/api_helper.php on line 377
+[20-Sep-2020 23:00:13 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/formacionccu/public_html/dashboard/application/helpers/api_helper.php on line 377
+[20-Sep-2020 23:00:48 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/formacionccu/public_html/dashboard/application/helpers/api_helper.php on line 377
+[20-Sep-2020 23:01:13 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/formacionccu/public_html/dashboard/application/helpers/api_helper.php on line 377
+[20-Sep-2020 23:01:49 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/formacionccu/public_html/dashboard/application/helpers/api_helper.php on line 377
+[20-Sep-2020 23:02:13 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/formacionccu/public_html/dashboard/application/helpers/api_helper.php on line 377

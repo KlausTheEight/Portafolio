@@ -1,0 +1,17 @@
+<response>
+<returncode>SUCCESS</returncode>
+<meetingID>5eba03adcf196</meetingID>
+<internalMeetingID>f5c7a54f43667d8925c47f5aa46f0f6364f29143-1589248941858</internalMeetingID>
+<parentMeetingID>bbb-none</parentMeetingID>
+<attendeePW>ap</attendeePW>
+<moderatorPW>mp</moderatorPW>
+<createTime>1589248941858</createTime>
+<voiceBridge>78560</voiceBridge>
+<dialNumber>613-555-1234</dialNumber>
+<createDate>Mon May 11 22:02:21 CLT 2020</createDate>
+<hasUserJoined>false</hasUserJoined>
+<duration>0</duration>
+<hasBeenForciblyEnded>false</hasBeenForciblyEnded>
+<messageKey></messageKey>
+<message></message>
+</response>
